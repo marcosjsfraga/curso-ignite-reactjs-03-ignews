@@ -9,6 +9,8 @@ export function Header() {
                 <nav>
                     <a className={styles.active}>Home</a>
                     <a>Posts</a>
+                    <a>News</a>
+                    <a>Configurations</a>
                 </nav>
 
                 <SignInButton />
